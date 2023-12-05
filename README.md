@@ -124,7 +124,7 @@ Implementation of Tic Tac Toe requires Python 3.x.
  5. Confirm that Python is correctly installed by entering the following command into the command line:
 
     ```Python
-python --version
+    python --version
     ```
     
 You should see the version of Python you installed.
@@ -144,8 +144,8 @@ To use this implementation of Tic Tac Toe, simply clone the repository and impor
  5. To import the functions, open the python script you would like to use and add the following lines:
 
      ```Python
-from Tic-Tac-Toe import *
-import Tic-Tac-Toe.py
+    from Tic-Tac-Toe import *
+    import Tic-Tac-Toe.py
     ```
 
 # Features Development
