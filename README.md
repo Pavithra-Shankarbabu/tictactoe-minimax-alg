@@ -122,7 +122,11 @@ Implementation of Tic Tac Toe requires Python 3.x.
  4. On Windows, use the Start menu to go to your system properties, then select the Advanced tab. Click Environment Variables, then edit the PATH variable so that it includes the path to the Python directory.
 
  5. Confirm that Python is correctly installed by entering the following command into the command line:
+
+    ```Python
 python --version
+    ```
+    
 You should see the version of Python you installed.
 
 ## Usage Instructions
@@ -138,9 +142,11 @@ To use this implementation of Tic Tac Toe, simply clone the repository and impor
  4. It will download the repository to your local machine.
 
  5. To import the functions, open the python script you would like to use and add the following lines:
+
+     ```Python
 from Tic-Tac-Toe import *
 import Tic-Tac-Toe.py
-
+    ```
 
 # Features Development
 
