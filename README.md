@@ -109,7 +109,8 @@ _____|_____|_____
 
 In this example, the player (represented by "X") has made the first move in the top-left corner. The AI opponent (represented by "O") has made the second move in the center. The player has made the third move in the center-left. The game is still ongoing.
 
-Requirements
+## Requirements
+
 Implementation of Tic Tac Toe requires Python 3.x.
 
 Download the latest version of Python 3 from the official Python website: https://www.python.org/downloads/
@@ -123,7 +124,9 @@ On Windows, use the Start menu to go to your system properties, then select the 
 Confirm that Python is correctly installed by entering the following command into the command line:
 python --version
 You should see the version of Python you installed.
-Usage Instructions
+
+## Usage Instructions
+
 To use this implementation of Tic Tac Toe, simply clone the repository and import the functions into your Python environment.
 
 1.Open your terminal
