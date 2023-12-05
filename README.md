@@ -114,15 +114,13 @@ In this example, the player (represented by "X") has made the first move in the 
 
 The game could be further developed by adding features such as:
 
-1. An option to adjust the difficulty of the AI (e.g. beginner, intermediate, and expert levels)
+1. A graphical user interface (GUI) to make the game more interactive
 
-2. A graphical user interface (GUI) to make the game more interactive
+2. An option to play against another human player over a network
 
-3. An option to play against another human player over a network
+3. An option to save and load games
 
-4. An option to save and load games
-
-5. Keep track of wins and losses for players
+4. Keep track of wins and losses for players
 
 
 ## Conclusion
