@@ -110,8 +110,6 @@ _____|_____|_____
 In this example, the player (represented by "X") has made the first move in the top-left corner. The AI opponent (represented by "O") has made the second move in the center. The player has made the third move in the center-left. The game is still ongoing.
 
 
-6. You should see the version of Python you installed.
-
 # Features Development
 
 The game could be further developed by adding features such as:
