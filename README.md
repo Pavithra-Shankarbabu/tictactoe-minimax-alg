@@ -11,27 +11,27 @@ The program is run with the command line and can be called with a -d flag to set
 * Playing with the AI (difficulty set to hard by default)
 
 ```python
-$ python tic_tac_toe.py
+ python tic_tac_toe.py
 ```
 
 * Playing with the AI with difficulty set (easy or hard)
 
 ```python
-$ python tic_tac_toe.py -d easy
+ python tic_tac_toe.py -d easy
 ```
 
 ```python
-$ python tic_tac_toe.py -d hard
+ python tic_tac_toe.py -d hard
 ```
 
 * Playing with someone else (take turns in same screen)
 ```python
-$ python tic_tac_toe.py -p human
+ python tic_tac_toe.py -p human
 ```
 
 * For more help run
 ```python
-$ python tic_tac_toe.py -h
+ python tic_tac_toe.py -h
 ```
 
 ## Functions
